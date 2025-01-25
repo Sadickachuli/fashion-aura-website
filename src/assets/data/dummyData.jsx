@@ -790,3 +790,4 @@ export const storeData = [
     price: 550,
   },
 ];
+
